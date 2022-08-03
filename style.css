@@ -1,0 +1,65 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.logo-betonext {
+    padding: 44px 0 45px 200px;
+}
+
+.container__navbar {
+    margin: 52px 54px 53px 110px;
+}
+
+.btn-danger {
+    color: #EA361F;
+    background: #EA361F;
+    opacity: 0.72;
+    border-radius: 28.5px;
+}
+
+.button__gr {
+    padding-left: 253px;
+}
+
+.header-content {
+    background: url("img/Photo\ —\ копия.png");
+    height: 100vh;
+}
+
+.f-text-1 {
+    padding-right: 200px;
+    padding-top: 172px;
+    font-size: 22px;
+    font-family: 'Proxima Nova';
+    line-height: 27px;
+    /* identical to box height */
+    color: #FFFFFF;
+    opacity: 0.72;
+}
+
+.f-text-2 {
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 82px;
+    line-height: 86px;
+    /* or 105% */
+    color: #FFFFFF;
+    padding-top: 12px;
+}
+
+.f-text-3 {
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    /* or 150% */
+    color: #FFFFFF;
+    opacity: 0.72;
+    padding-top: 24px;
+}
+
+.button__gr-1 {
+    padding-top: 54px;
+}
